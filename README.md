@@ -66,3 +66,8 @@ The Unpleasant Truth:
 This benchmark reveals that AI's "working memory" (context window) is fundamentally superior to human working memory for retention tasks. Humans will fail spectacularly at ~15-20% accuracy while AI achieves near-perfect scores.
 However, this doesn't mean AI "understands" better - it just has better rote memory. Humans would excel at questions like "what was the overall pattern?" or "predict the next frame."
 ```
+
+IF RIGOROUSLY DOCUMENTED:
+- AI IS SUPERHUMAN MEMORY ALREADY (within a context window)
+- BUT HUMAN CAN EXTRAPOLATE BETTER (just much slower)
+- RETENTION IS ORTHOGONAL FROM EXTRAPOLATION (human do hierarchical memory extrapolation)
