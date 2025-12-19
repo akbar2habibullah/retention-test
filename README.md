@@ -1,4 +1,4 @@
-GENERATE 100 IMAGES -> FED INTO CONTEXT WINDOW
+GENERATE 100 IMAGES -> FEED INTO CONTEXT WINDOW
 
 PROMPT:
 ```
@@ -11,6 +11,7 @@ When you see a blue circle with number 7 and the color is an anomaly, how much t
 
 GROUND TRUTH:
 <img alt="img_062" src="https://github.com/user-attachments/assets/1ed8754e-23a1-4e40-acb4-7b8a1385d614" />
+> This is only for the answer, we dump 100 images at once inside a single request
 
 GEMINI OUTPUT:
 ```
