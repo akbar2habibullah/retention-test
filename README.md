@@ -45,7 +45,8 @@ Based on the visual patterns in the image, here is the step-by-step solution:
 The sum of all numbers inside that frame is **36**.
 ```
 
-HYPOTHESIS:
+HYPOTHESIS -> WORKING MEMORY IS SOLVED SPECTACULARLY (and accidentally) -> STOP PUSHING FOR LONGER WINDOW CONTEXT, PUSH FOR BETTER EXTRAPOLATION LIKE HUMANS
+
 ```
 Why This Benchmark is Devastating
 
