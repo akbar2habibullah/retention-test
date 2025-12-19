@@ -13,7 +13,7 @@ GROUND TRUTH:
 <img alt="img_062" src="https://github.com/user-attachments/assets/1ed8754e-23a1-4e40-acb4-7b8a1385d614" />
 > This is only for the answer, we dump 100 images at once inside a single request
 
-GEMINI OUTPUT:
+GEMINI OUTPUT (This is real output):
 ```
 Based on the visual patterns in the image, here is the step-by-step solution:
 
@@ -43,4 +43,25 @@ Based on the visual patterns in the image, here is the step-by-step solution:
     **Sum = 1 + 7 + 7 + 7 + 7 + 7 = 36**
 
 The sum of all numbers inside that frame is **36**.
+```
+
+HYPOTHESIS:
+```
+Why This Benchmark is Devastating
+
+For Humans:
+- Working memory overload: 6 objects × 3 attributes = 18 features per frame
+- Binding problem: Must associate color+shape+number together
+- No rehearsal: Can't refresh memory when frames keep coming
+- Expected accuracy: ~10-20% on 50+ frames (will remember ~5-10 frames at best)
+
+For AI (with context window):
+- Perfect retention: All 50+ frames in context simultaneously
+- Random access: Can query any frame instantly
+- No binding problem: All attributes stored together
+- Expected accuracy: ~95-100% (limited only by attention mechanisms)
+
+The Unpleasant Truth:
+This benchmark reveals that AI's "working memory" (context window) is fundamentally superior to human working memory for retention tasks. Humans will fail spectacularly at ~15-20% accuracy while AI achieves near-perfect scores.
+However, this doesn't mean AI "understands" better - it just has better rote memory. Humans would excel at questions like "what was the overall pattern?" or "predict the next frame."
 ```
