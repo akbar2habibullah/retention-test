@@ -67,8 +67,11 @@ This benchmark reveals that AI's "working memory" (context window) is fundamenta
 However, this doesn't mean AI "understands" better - it just has better rote memory. Humans would excel at questions like "what was the overall pattern?" or "predict the next frame."
 ```
 
+https://youtu.be/UhQB8yD5RjU?si=Jew9uaCK3WgkB2bq
+
 
 NOVELTY CHECK:
+
 ```
 - Human working memory sucks -> Proven since 70s (NOT NEW)
 - Photographic memory -> Myth/exaggerated (NOT NEW)
